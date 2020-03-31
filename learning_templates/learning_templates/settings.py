@@ -25,11 +25,7 @@ SECRET_KEY = '^786)$6f8j4%)mbpb&azs#8cq0m9sb-@or%c+81g)8s&r6d4dp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-<<<<<<< HEAD
 ALLOWED_HOSTS = 'erbah.pythonanywhere.com'
-=======
-ALLOWED_HOSTS = ['erbah.pythonanywhere.com']
->>>>>>> e47fb3872440f756468c93de99a42a5521b8fb97
 
 
 # Application definition
